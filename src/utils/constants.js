@@ -1,5 +1,4 @@
 // const API_ROOT = "http://localhost:8080/v1";
-const API_ROOT = "https://storageapi.stak63.com/v1";
 const REGIONS = [
   { code: 1, name: "Республика Адыгея (Адыгея)" },
   { code: 2, name: "Республика Башкортостан" },
